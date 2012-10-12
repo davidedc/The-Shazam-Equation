@@ -9,7 +9,11 @@ This was first drafted using the default Grapher app in OSX, and the refined fur
 
 ![Equation image](https://raw.github.com/davidedc/The-Shazam-Equation/master/Shazam%20Equation%20-%20formula%20image%20for%20t-shirt.png)
 ![Equation graph](https://raw.github.com/davidedc/The-Shazam-Equation/master/Shazam%20Equation%20Graph%20for%20T-shirt.png)
+
+These are the twelve parts of half of the Shazam logo. The other half is just some sign changes. Could probably have used 4 less factors but hey.
 ![Equation parts](https://raw.github.com/davidedc/The-Shazam-Equation/master/Shazam%20Equation%20-%20the%2012%20Parts.png)
+
+T-shirts!
 ![T-shirt front](https://raw.github.com/davidedc/The-Shazam-Equation/master/Shazam%20Equation%20T-shirt%20front.jpg)
 ![T-shirt back](https://raw.github.com/davidedc/The-Shazam-Equation/master/Shazam%20Equation%20T-shirt%20back.jpg)
 
